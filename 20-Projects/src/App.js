@@ -1,5 +1,5 @@
 import './App.css';
-import Accordian from './components/accordion/indes';
+import Accordian from './components/accordian';
 
 function App() {
   return (
